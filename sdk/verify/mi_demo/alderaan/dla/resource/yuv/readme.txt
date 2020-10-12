@@ -1,1 +1,0 @@
-the yuv means input format is E_MI_SYS_PIXEL_FRAME_YUV_SEMIPLANAR_420

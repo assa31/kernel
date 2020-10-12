@@ -1,2 +1,0 @@
-TOOL(setprop)
-TOOL(getprop)

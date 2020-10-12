@@ -1,2 +1,0 @@
-_IMAGES_/DB/FV018_L.pgm
-_IMAGES_/DB/AE098_L.pgm

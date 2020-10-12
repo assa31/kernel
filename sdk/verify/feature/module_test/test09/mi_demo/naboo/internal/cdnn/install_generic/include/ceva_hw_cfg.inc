@@ -1,2 +1,0 @@
-;.EQU  CEVA_DMA_EXTENDED_DESC 1					
-

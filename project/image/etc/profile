@@ -1,6 +1,0 @@
-#!/bin/sh
-export PATH=/bin:/sbin:/usr/bin:/usr/sbin
-export LD_LIBRARY_PATH=/lib
-mkdir -p /dev/pts
-mount -t devpts devpts /dev/pts
-ulimit -c unlimited
